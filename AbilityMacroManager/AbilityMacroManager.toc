@@ -1,0 +1,14 @@
+## Interface: 100200
+## Title: Ability Macro Manager
+## Notes: Easily configure macros for targeted abilities
+## Author: Xamah-TarrenMill
+## Version: 1.10.0
+## SavedVariables: AMM_Abilities, AMM_UIEnabled, AMM_Version
+
+utils.lua
+constants.lua
+player_selector_frame.lua
+ability_macro.lua
+ability_frame.lua
+settings.lua
+core.lua
